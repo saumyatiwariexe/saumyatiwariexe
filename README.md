@@ -1,4 +1,4 @@
-# Hey there, I'm Saumya Tiwari 👋
+# Hey there, I'm Saumya Tiwari 
 
 ### `Developer • Creative Technologist • AI Enthusiast • Builder of Random Cool Stuff`
 
@@ -12,18 +12,18 @@ And somehow... they usually do.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-* 🤖 AI / ML Experiments
-* 🌐 Full Stack Development
-* 📱 Modern Web Apps
-* 🧠 Creative Tech Projects
-* 🎮 Game Development
-* 🥽 AR / VR
-* ⚡ Automation
-* 🎨 Graphic Design
-* 🎬 Video Editing
-* 🛠 Robotics & Arduino Projects
+* AI / ML Experiments
+* Full Stack Development
+* Modern Web Apps
+* Creative Tech Projects
+* Game Development
+* AR / VR
+* Automation
+* Graphic Design
+* Video Editing
+* Robotics & Arduino Projects
 
 ---
 
@@ -47,7 +47,7 @@ And somehow... they usually do.
 
 ---
 
-## 🧠 Current Status
+## Current Status
 
 ```bash
 > Building weird ideas into real projects...
@@ -55,18 +55,7 @@ And somehow... they usually do.
 > Probably working on 5 projects simultaneously.
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
-</p>
-
----
-
-## ⚡ Fun Fact
+## Fun Fact
 
 I started with random curiosity and now my browser has 47 tabs open about AI, robotics, startups, UI design, databases, game engines, and "how to fix this one weird error."
 
